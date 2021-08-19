@@ -1,0 +1,27 @@
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST FourQuestinon.exe
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST FourQuestinon.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST FourQuestinon.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST FourQuestinon.AssemblyInfo.cs
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST FourQuestinon.RazorTargetAssemblyInfo.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\obj\Debug\netcoreapp3.1\staticwebassets\lottle SYSTEM TEST FourQuestinon.StaticWebAssets.Manifest.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\obj\Debug\netcoreapp3.1\staticwebassets\lottle SYSTEM TEST FourQuestinon.StaticWebAssets.xml
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST FourQuestinon.deps.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST FourQuestinon.runtimeconfig.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST FourQuestinon.runtimeconfig.dev.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST FourQuestinon.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST FourQuestinon.pdb
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST FourQuestinon.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST FourQuestinon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST FourQuestinon.csproj.CopyComplete
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST FourQuestinon.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST FourQuestinon.pdb
+C:\Users\Alan\source\repos\lottle SYSTEM TEST FourQuestinon\lottle SYSTEM TEST FourQuestinon\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST FourQuestinon.genruntimeconfig.cache

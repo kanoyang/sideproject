@@ -1,0 +1,27 @@
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST.exe
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST.AssemblyInfo.cs
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST.RazorTargetAssemblyInfo.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\obj\Debug\netcoreapp3.1\staticwebassets\lottle SYSTEM TEST.StaticWebAssets.Manifest.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\obj\Debug\netcoreapp3.1\staticwebassets\lottle SYSTEM TEST.StaticWebAssets.xml
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST.deps.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST.runtimeconfig.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST.runtimeconfig.dev.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST.pdb
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST.csproj.CopyComplete
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST.pdb
+C:\Users\Alan\source\repos\lottle SYSTEM TEST\lottle SYSTEM TEST\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST.genruntimeconfig.cache

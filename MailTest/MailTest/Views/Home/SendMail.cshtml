@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewData["Title"] = "SendMail";
+
+}
+
+<h1>SendMail</h1>
+<div>
+    <form method="post" action="sendMailTo">
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        收件者:
+                    </td>
+                    <td>
+                        <input id="recieveBox" type="text" name="Receiver" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        信件標題:
+                    </td>
+                    <td>
+                        <input id="titleBox" type="text" name="Title" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        信件內容:
+                    </td>
+                    <td>
+                        <textarea id="contentBox" name="Content" rows="4" cols="50"></textarea>
+                    </td>
+                </tr>
+                <tr><td><input id="Submit1" type="submit" value="寄信" /></td></tr>
+            </tbody>
+        </table>
+    </form>
+   
+
+    <div>
+       @TempData["result"]
+    </div>
+</div>
+
+
+
+
+
+
+

@@ -1,0 +1,54 @@
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.exe
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.AssemblyInfo.cs
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.RazorTargetAssemblyInfo.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\staticwebassets\lottle SYSTEM TEST_secondQunetion.StaticWebAssets.Manifest.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\staticwebassets\lottle SYSTEM TEST_secondQunetion.StaticWebAssets.xml
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.deps.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.runtimeconfig.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.runtimeconfig.dev.json
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.pdb
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.csproj.CopyComplete
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.dll
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.pdb
+C:\Users\Alan\source\repos\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.genruntimeconfig.cache
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.exe
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.deps.json
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.runtimeconfig.json
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.runtimeconfig.dev.json
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.dll
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.pdb
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.AssemblyInfo.cs
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.RazorTargetAssemblyInfo.cache
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.csproj.CopyComplete
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\staticwebassets\lottle SYSTEM TEST_secondQunetion.StaticWebAssets.Manifest.cache
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\staticwebassets\lottle SYSTEM TEST_secondQunetion.StaticWebAssets.xml
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.dll
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.pdb
+C:\Users\Alan\Desktop\lottle_TEST\lottle SYSTEM TEST_secondQunetion\lottle SYSTEM TEST_secondQunetion\obj\Debug\netcoreapp3.1\lottle SYSTEM TEST_secondQunetion.genruntimeconfig.cache

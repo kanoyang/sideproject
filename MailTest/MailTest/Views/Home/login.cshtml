@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "login";
+
+}
+
+<h1>login</h1>
+<form method="post" action="loginTo">
+    帳號:<input id="accountBox" type="text" name="AccountID" /><br />
+    密碼:<input id="passwordBox" type="text" name="PassWord" /><br />
+    <input id="Submit1" type="submit" value="登入" /><br />
+    @ViewBag.result <br/>
+    @TempData.Peek("token")
+    
+</form>
+
+

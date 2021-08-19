@@ -1,0 +1,34 @@
+D:\WorkSpeace\Email test\Email test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WorkSpeace\Email test\Email test\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WorkSpeace\Email test\Email test\bin\Debug\netcoreapp3.1\Email test.exe
+D:\WorkSpeace\Email test\Email test\bin\Debug\netcoreapp3.1\Email test.deps.json
+D:\WorkSpeace\Email test\Email test\bin\Debug\netcoreapp3.1\Email test.runtimeconfig.json
+D:\WorkSpeace\Email test\Email test\bin\Debug\netcoreapp3.1\Email test.runtimeconfig.dev.json
+D:\WorkSpeace\Email test\Email test\bin\Debug\netcoreapp3.1\Email test.dll
+D:\WorkSpeace\Email test\Email test\bin\Debug\netcoreapp3.1\Email test.pdb
+D:\WorkSpeace\Email test\Email test\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\WorkSpeace\Email test\Email test\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\WorkSpeace\Email test\Email test\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Email test.csproj.AssemblyReference.cache
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Email test.AssemblyInfoInputs.cache
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Email test.AssemblyInfo.cs
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Email test.csproj.CoreCompileInputs.cache
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Email test.MvcApplicationPartsAssemblyInfo.cache
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\staticwebassets\Email test.StaticWebAssets.Manifest.cache
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\staticwebassets\Email test.StaticWebAssets.xml
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\scopedcss\bundle\Email test.styles.css
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Email test.RazorTargetAssemblyInfo.cache
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Email test.csproj.CopyComplete
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Email test.dll
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Email test.pdb
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Email test.genruntimeconfig.cache
+D:\WorkSpeace\Email test\Email test\bin\Debug\netcoreapp3.1\Email test.Views.dll
+D:\WorkSpeace\Email test\Email test\bin\Debug\netcoreapp3.1\Email test.Views.pdb
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Email test.RazorAssemblyInfo.cache
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Email test.RazorAssemblyInfo.cs
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Email test.TagHelpers.input.cache
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Email test.TagHelpers.output.cache
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Email test.RazorCoreGenerate.cache
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Razor\Views\SendMail\Index.cshtml.g.cs
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Email test.RazorTargetAssemblyInfo.cs
+D:\WorkSpeace\Email test\Email test\obj\Debug\netcoreapp3.1\Email test.Views.pdb

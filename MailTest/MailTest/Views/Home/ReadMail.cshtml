@@ -1,0 +1,24 @@
+﻿@*@model List<mail>*@
+@{
+    ViewData["Title"] = "ReadMail";
+    List<mail> maillist = Model;
+}
+
+<h1>ReadMail</h1>
+
+<div class="row">
+    @if (maillist != null)
+    {
+        <table class="table table-hover">
+            @foreach (var item in maillist)
+            {
+
+                <tr><td>@item.Title</td><td align="right">from: @item.Receiver</td></tr>
+                <tr><td colspan="2" align="center">@item.Content</td></tr>
+            }
+        </table>
+    }
+
+    @TempData["result"]
+
+</div>
